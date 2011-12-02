@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
+            Console.WriteLine("The time has come...");
             Console.Beep();
         }
     }
